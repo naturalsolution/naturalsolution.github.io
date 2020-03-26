@@ -22,9 +22,16 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Napa_Valley_vineyards_banner_2.jpg" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" />
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1><!-- apples -->
+    <header class="page-header" role="banner" style=" background-image: url('https://upload.wikimedia.org/wikipedia/commons/3/3f/Napa_Valley_vineyards_banner_2.jpg');
+      background-size: cover;
+      height: 584px;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 32px;">
+      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
