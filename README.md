@@ -5,8 +5,7 @@ Our vision is to bring the environment back to its natural state; Free of chemic
 
 Previous clients have been thrilled with our innovative and profoundly efficient environmentally safe products that are revolutionizing the agricultural, sport field, and oil remediation industries. Natural Solutions with over a century of combined experience in agronomy and soil science, not only provides the highest quality products, but support it with expert consultation to its clients to provide one of the most comprehensive programs in the industry. We continually develop and deliver products that add value, and benefit our customers; providing the world with the best options in environmental technology, while maintaining hone. with over a century of combined experience in agronomy and soil science, not only provides the highest quality products, but support it with expert consultation to its clients to provide one of the most comprehensive programs in the industry. We continually develop and deliver products that add value, and benefit our customers; providing the world with the best options in environmental technology, while maintaining honesty, integrity and commitment.
 
-![Harvest](https://commons.wikimedia.org/wiki/File:WV_banner_SE_Wyoming_Harvesting.jpg)
-<img src="https://commons.wikimedia.org/wiki/File:WV_banner_SE_Wyoming_Harvesting.jpg" />
+![Harvest](https://upload.wikimedia.org/wikipedia/commons/b/bb/WV_banner_SE_Wyoming_Harvesting.jpg)
 
 ## Products
 Natural Solutions is here to help you grow things better. Our products will help you produce higher quality yields both more effectively and more efficiently. Below are products designed to do just that:
@@ -21,6 +20,7 @@ Weatoil - Weatoil is a microbial solution for bioremediation applications. Biore
 
 Fly Away Solution - FAS is a microbial solution for mosquito, knat, and fly control. FAS microbes eat the organic matter the make up the wings, disrupting the larvae cycle and aiding in over all control of these pests.
 
+![Fruit](https://upload.wikimedia.org/wikipedia/commons/6/63/Lot_et_Garonne_banner_Prunes.jpg)
 
 ## Benefits
 Economical and easy to use
